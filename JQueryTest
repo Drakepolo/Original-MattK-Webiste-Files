@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+    <link rel = "stylesheet" href= "style.css">
+    <script src="interactions.js"></script>
+</head>
+<body>
+    
+    <div class="header">
+        <header>Matt k Productions</header>
+    <ul class="topOfPage">
+        <li class="nav">Merchandise</li>
+        <li class="nav">Videos</li>
+        <li class="nav"><a href="Beats.html">Beats</a></li>
+        <li class="nav"><a href="About.html">About</a></li>
+        <li class="nav"><a href="index.html">Home</a></li>
+        
+        <button class="nav">Cart</button>
+        <button class="nav">Log    in</button>
+    </ul>
+        
+    </div>
+    
+    <h1 class="aboveImage">Matts a Fuck Nigga</h1>
+    <img class="aboutPicture" src="backgrouund.jpg">
+    
+    <p>This  paragraph that i amm writing now is dedicated to all the young niggas out ther grinding. tryna secure the bag. You know this shit never stops. we gotta unite and get it out the mutha fuckin mud. every nigga im rising to the top with be my brothas,  on foenem. play with them you bouta have ya life taken pussy nigga. from now on bow when you see us, be cautious when you approach us and consider ya bitch alreadyy taken when we land on scene. ESKEDDIIIIIIIIIIIIT!!!</p>
+
+</body>
+</html>

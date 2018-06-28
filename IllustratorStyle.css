@@ -1,0 +1,9 @@
+body{
+    background-image: url(SupremeWebBack.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hey{
+    float:right;
+    font-family: Comic Sans;
+}
